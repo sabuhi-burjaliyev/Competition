@@ -1,0 +1,8 @@
+inter\processes\LoginInter.class
+process\Process.class
+inter\processes\StartInter.class
+process\Exit.class
+inter\processes\ExitInter.class
+process\Login.class
+inter\processes\LogoutInter.class
+process\Start.class
